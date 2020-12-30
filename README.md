@@ -6,7 +6,7 @@
 
 ### Resources
 
-* [Qiskit Textbook](https://qiskit.org/textbook/what-is-quantum.htmt)
+* [Qiskit Textbook](https://qiskit.org/textbook/what-is-quantum.html)
 
 
 
